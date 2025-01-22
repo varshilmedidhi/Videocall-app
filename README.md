@@ -28,5 +28,5 @@ Ensure you have the following installed on your system:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/webrtc-video-call-app.git
+git clone https://github.com/varshilmedidhi/Videocall-app/tree/master
 cd webrtc-video-call-app
